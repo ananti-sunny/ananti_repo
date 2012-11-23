@@ -3,3 +3,5 @@ syalalala :3
 type from master branch
 from mybranch branch2
 si kucing aneh
+tambahin dari mergetools
+dari branch si kucing
